@@ -1,59 +1,55 @@
 [English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [한국어 README](README-ko.md)
 # ServiceLogos
-你好，早上好，或者晚上好。
-
-这里是用来管理由Sawaratsuki制作的各种logo的仓库。
+안녕하세요, 좋은 아침 또는 저녁입니다. 
+해당 레포지토리는 Sawaratsuki가 다양한 서비스의 로고를 업로드하기 위해 만들어졌습니다.
 
 > [!WARNING]
-> 这里提供的logo并非官方logo。
+> 여기에서 제공된 로고들은 공식 로고가 아닙니다.
 
-# 许可协议
-## 想要使用logo的话请务必认真阅读本节
+# License
+## 로고를 사용하고 싶다면 아래의 주의사항들을 꼭 읽어주세요.
 > [!NOTE]
-> ### 概述:
-> - 只要是非盈利目的就可以自由使用这里的logo。
->   比如说自己打印成贴纸自用或者是用作IDE的图标之类的。
-> - 请标明作者出处！
->   可以适当进行修改，但是新logo的许可协议要和原来的logo保持一致。
-> - 如果你使用了这里的logo来做了一些什么东西的话，能够发推特提及[@Sawaratsuki](https://x.com/sawaratsuki1004)我一下，我会非常兴奋的！
+> ### 요약:
+> - 비상업적, 비영리적 목적으로 이 로고들을 자유롭게 사용할 수 있습니다.
+>   예를 들어 스티커로 인쇄하거나, IDE의 아이콘으로 사용할 수 있습니다.
+> - 원작자를 위해 적절한 출처를 남겨주세요!
+>   자유롭게 수정, 재구성 할 수 있지만, 라이선스에 따라 결과물에도 원본과 동일한 라이선스가 부여해야 합니다.
+> - 이 로고들을 사용해 무언가를 만들어 게시할 때, [Sawaratsuki](https://x.com/sawaratsuki1004)를 언급해 주시면 동기부여가 됩니다!
 
-### 细则：
+### 세부사항
 ![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
-1. 这里的logo的制作者是Sawaratsuki。 我并没有完全放弃著作权。
-2. 这里的所有logo都遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)的许可协议
->  - 使用时请标明作者出处，这能极大提升我的创作热情！谢谢！
->  - 对logo进行适当的修改也是允许的，但是新logo的许可协议要和原来的logo保持一致 (CC BY-NC-SA 4.0) 。
->  - 商业用途（例如在销售产品上使用这些logo）是被禁止的。但是如果满足下述条件的话则可以贩卖：
->    1. 官方本家希望进行贩卖。
->    2. 得到了Sawaratsuki的许可。
->    
->      (发现有人违反了规则的话请立即联系[@Sawaratsuki](https://x.com/sawaratsuki1004)！)
-3. 打印成贴纸之类的个人使用的话可以不经过本人的同意直接使用。
+1. 이 로고들의 원작자는 Sawaratsuki 입니다. 저작권이 완전히 면제된 것은 아닙니다.
+2. 여기의 모든 로고는 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) 라이선스를 준수합니다.
+> - 적절한 크레딧을 꼭 표기해주세요. 큰 동기부여가 되니까요.
+> - 수정하거나 재구성 할 수 있지만, 새 저작물에는 원본과 동일한 라이선스가 부여해야 합니다.
+> - 상업적 이용 ( 로고를 사용한 제품 판매 등 )은 금지됩니다. 다만 아래의 조건에 해당하는 경우에는 판매가 가능합니다.
+>   1. 각 서비스의 관계자가 수익을 목적으로 판매를 원하는 경우
+>   2. Sawaratsuki로부터 상업적 이용에 대해 허락을 받은 경우  
+>      (라이선스에 대한 위반사항을 발견할 시, [@Sawaratsuki](https://x.com/sawaratsuki1004)로 연락 주세요!)
+3. 스티커, 씰 등으로 개인적인 용도로 사용시에는 허가 없이 사용이 가능합니다.
 
+# 여기에 없는 로고를 원해요!
+이슈를 생성해주세요. 확인 후 제작해드리겠습니다. 
+개인 일정에 따라 답변에 수 일이 소요될 수도 있습니다. 
 
-# 如果这里没有您想要的logo
-请提交issues。我确认了之后就会设计制作logo。
-
-由于个人时间安排等因素，制作logo可能需要几天时间，也有可能做不了。
 > [!IMPORTANT]  
-提交issues时请务必带上request的标签。
+> 이슈를 생성할 때 request tag를 포함해야 합니다.
 
-# 写给各个服务商官方：
+# 각 서비스에 대한 관계자들
 
-请通过[私信联系Sawaratsuki](https://x.com/sawaratsuki1004)申请移除logo。 我们将立即为您移除。
+등재된 로고를 삭제하려면 [SAWATSUKI](https://x.com/sawaratsuki1004)로 DM을 보내주세요. 
+즉시 삭제해드리겠습니다. 
+제품을 정식으로 판매하고 싶은 경우에도 [SAWATSUKI](https://x.com/sawaratsuki1004)로 DM을 보내주세요.
 
-如果你想要售卖带有这些logo的产品的话也请[私信联系Sawaratsuki](https://x.com/sawaratsuki1004)。
-
-# 设计工具
+# 디자인에 사용된 도구
 - Photoshop / Illustrator
-- 字体： [ユールカフォント]
-- Sawaratsuki的创作热情
-- 各位的感想推文（非常感谢！）
+- 폰트 [Eureka Font]
+- Sawaratsuki의 동기부여와 감정
+- 모두의 피드백 글들
 
+## image :
 
-## 图片集：
-
-| 名称 | 图片 |
+| 이름 | 이미지 |
 |-------------------------------|--------|
 | [Angular](/Angular/)          | <img src="/Angular/Angular.png" width="100"/> <img src="/Angular/Angular_Old.png" width="100"/> |
 | [ArchLinux](/ArchLinux/)      | <img src="/ArchLinux/ArchLinux.png" width="100"/> |
